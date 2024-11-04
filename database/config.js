@@ -5,7 +5,8 @@
 const config=  {
     user: 'sa',
     password: 'pk',
-    server: 'SERVIDORNEW', // Puede ser una IP o nombre del servidor
+   // server: 'SERVIDORNEW', 
+    server:'213.194.174.108',
     database: 'versionesBD',
     port: 1433,
     options: {

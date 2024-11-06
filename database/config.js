@@ -6,7 +6,7 @@ const config=  {
     user: 'sa',
     password: 'pk',
    // server: 'SERVIDORNEW', 
-    server:'213.194.174.108',
+    server:'213.194.175.18',
     database: 'versionesBD',
     port: 1433,
     options: {
